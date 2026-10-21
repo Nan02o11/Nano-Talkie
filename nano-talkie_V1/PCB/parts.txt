@@ -1,0 +1,16 @@
+Here is the parts I used for this project(x1 nano-talkie):    - x1 SA818S CE edition
+							      - x1 1k resistor
+							      - x2 10uf capacitor
+							      - x2 100uf capacitor
+							      - x1 8ohms 1W speaker
+							      - x1 ATTiny85 20PU
+							      - x1 electret microphone
+							      - x1 10k potentiometer
+							      - x1 LM386-N
+							      - x1 TP4056
+							      - x1 slider switch
+							      - x1 12mmx12mm button
+							      - x1 u.fl-r-smt(01)
+							      - x1 10mmx20mm toggle switch
+							      - x1 UHF antenna(length:16.8cm or 33.6cm)
+Mulitply everthing by the number of nano-talkie you want.
