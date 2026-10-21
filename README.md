@@ -1,3 +1,5 @@
+<img width="737" height="731" alt="Capture d&#39;écran 2026-10-21 130931" src="https://github.com/user-attachments/assets/0c936fa7-e518-40db-86b3-116f66d8dea7" />
+
 # Nano-Talkie
 Hi, the project "Nano-Talkie" is a talkie-walkie so tiny that you can attach it on your keys and have a talkie walkie with a range that can go up to (in theory) +4km
 and with an autonomy of +1h30 in your pocket.
