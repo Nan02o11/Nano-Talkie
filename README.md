@@ -1,4 +1,4 @@
-<img width="1288" height="762" alt="Capture d&#39;écran 2026-10-21 130955" src="https://github.com/user-attachments/assets/4eaaba45-3204-49d9-81fc-d0d131d48bdd" />
+<img width="852" height="805" alt="Capture d&#39;écran 2026-10-23 141854" src="https://github.com/user-attachments/assets/61fcac4d-de74-4697-b275-8653280dff34" />
 
 # Nano-Talkie
 Hi, the project "Nano-Talkie" is a talkie-walkie so tiny that you can attach it on your keys and have a talkie walkie with a range that can go up to (in theory) +4km
